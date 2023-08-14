@@ -43,11 +43,6 @@ vector<string> split(const string& text)
 
     return words;
 }
-// string pig_it(string Z)
-// {
-//     regex reg(("(\\w)(\\w*)(\\s|$)"));
-//     return regex_replace(Z, reg, "$2$1ay$3");
-// }
 string pig_it(string str)
 {
     auto words = split(str);
