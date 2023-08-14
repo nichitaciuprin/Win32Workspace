@@ -5,6 +5,8 @@
         "xstring": "cpp",
         "locale": "cpp",
         "xlocale": "cpp",
-        "filesystem": "cpp"
+        "filesystem": "cpp",
+        "chrono": "cpp",
+        "codecvt": "cpp"
     }
 }
