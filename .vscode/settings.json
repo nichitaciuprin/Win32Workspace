@@ -26,6 +26,8 @@
         "stacktrace": "cpp",
         "type_traits": "cpp",
         "valarray": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "string": "cpp",
+        "variant": "cpp"
     }
 }
